@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhit-khan
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on enthusiast learners to make our learning more effective.
+- 🌱 I’m currently learning C/C++ & Pyhton
+- 💞️ I’m looking for collaborating with enthusiast learners to make the learning journey more effective.
 - 📫 Reach me => muhitkhan_bd@outlook.com
 
 <!---
