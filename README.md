@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhit_bd" target="blank"><img src="https://img.shields.io/twitter/follow/muhit_bd?logo=twitter&style=for-the-badge" alt="muhit_bd" /></a> </p>
 
-- 🌱 I’m currently learning **C/C++, Python**
+- 🌱 I’m currently learning **C/C++, Python, Dart/Flutter**
 
 - 📝 I write articles on [https://medium.com/@muhitkhan_bd](https://medium.com/@muhitkhan_bd)
 
