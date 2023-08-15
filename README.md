@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/muhit_bd" target="blank"><img src="https://img.shields.io/twitter/follow/muhit_bd?logo=twitter&style=for-the-badge" alt="muhit_bd" /></a> </p>
 
-- 🌱 I’m currently learning **C/C++, Python, Dart/Flutter**
+- 🌱 I’m currently on **C/C++, Java, Python, Dart/Flutter**
 
 - 📝 I write articles on [https://medium.com/@muhitkhan_bd](https://medium.com/@muhitkhan_bd)
 
-- 💬 Ask me about **C/C++, Python**
+- 💬 Ask me about **C/C++, Java, Python**
 
 - 📫 How to reach me **muhitkhan_bd@outlook.com**
 
