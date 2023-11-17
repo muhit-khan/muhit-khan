@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently on **C/C++, Java, Python, Dart/Flutter**
 
-- 📝 I write articles on [https://medium.com/@muhitkhan_bd](https://medium.com/@muhitkhan_bd)
+- 📝 I write articles on [https://blog.muhitkhan.tech](https://blog.muhitkhan.tech)
 
 - 💬 Ask me about **C/C++, Java, Python**
 
