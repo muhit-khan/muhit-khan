@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/muhit_bd" target="blank"><img src="https://img.shields.io/twitter/follow/muhit_bd?logo=twitter&style=for-the-badge" alt="muhit_bd" /></a> </p>
 
-- 🌱 I’m currently on **C/C++, Java, Python, Dart/Flutter**
+- 🌱 I’m currently on **Python, C/C++, Java, Javascript, SQA Automation, Next JS **
 
 - 📝 I write articles on [https://blog.muhitkhan.tech](https://blog.muhitkhan.tech)
 
 - 💬 Ask me about **C/C++, Java, Python**
 
-- 📫 How to reach me **muhitkhan_bd@outlook.com**
+- 📫 How to reach me **muhit.dev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhit-khan/](https://www.linkedin.com/in/muhit-khan/)
 
@@ -26,7 +26,6 @@
 <a href="https://fb.com/muhitkhan.bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhitkhan.bd" height="30" width="40" /></a>
 <a href="https://instagram.com/muhitkhan_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhitkhan_bd" height="30" width="40" /></a>
 <a href="https://medium.com/@muhitkhan_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhitkhan_bd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muhitkhan_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhitkhan_bd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
