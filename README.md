@@ -27,9 +27,9 @@ class MuhitKhan:
     location    = "Planet Earth 🌍"
     role        = "Enthusiast Programmer & Tech Blogger"
     languages   = ["Python", "C", "C++", "Java", "JavaScript"]
-    frameworks  = ["Next.js", "Node.js"]
+    frameworks  = [ "Certified AI Professional", "Next.js", "Node.js"]
     currently   = "Exploring SQA Automation & Full-Stack Development"
-    web        = "https://muhit-khan.tech"
+    web        = "https://muhit-khan.com"
     email       = "muhit.dev@gmail.com"
     ask_me      = ["JavaScript", "TypeScript" "Python", "Automation Testing", "AI/ML", "Web App"]
 
